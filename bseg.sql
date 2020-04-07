@@ -1,0 +1,21 @@
+create table bseg(
+  BUKRS nchar(4),
+  KOSTL nchar(10),
+  BLDAT nchar(8),
+  BUDAT nchar(8),
+  SGTXT varchar(256),
+  HKONT nchar(10),
+  BLART nchar(10),
+  DMBTR varchar(256),
+  WRBTR varchar(256),
+  PSWSL nchar(3),
+  PSWBT varchar(256),
+  PRCTR nchar(10),
+  LIFNR nchar(2),
+  KUNNR nchar(10),
+  PROJK nchar(8),
+  DBBLG varchar(256),
+  ZUONR varchar(256),
+  SHKZG varchar(256),
+  BELNR nchar(10)
+)
